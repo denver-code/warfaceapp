@@ -1,6 +1,5 @@
-# warfaceapp
-
-A new Flutter project.
+# warfaceapp  
+Among the tools you could find there is stuff like checking current amount of online player per channel, game news, reference to useful materials, game ladders, player statistics and more to come.
 
 ## Getting Started
 
